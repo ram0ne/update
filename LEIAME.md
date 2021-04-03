@@ -6,6 +6,7 @@ Autor: Ramone
 Versão: 1.0
 
 Para executar:
+Entre como ROOT
 chmod +x
 ./update
 Apartir da primeira execução será gerado arquivo de 
